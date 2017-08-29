@@ -10,7 +10,7 @@ with fileinput.input(files=('vocabulary_words.md')) as f:
         words.append(line)
 
 def show_word(word) :
-    time.sleep(40)
+    time.sleep(60)
     # print(word)
     words_list = word.split("-")
     # print(words_list)
