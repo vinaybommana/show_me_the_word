@@ -1,6 +1,7 @@
 import os
 import time
 import fileinput
+import numpy as np
 import random
 
 words = []
@@ -24,7 +25,7 @@ def show_word(word) :
 
 def main() :
     while True :
-        show_word(random.choice(words))
+        show_word(np.random.choice(words))
 
 
 if __name__ == "__main__" :
