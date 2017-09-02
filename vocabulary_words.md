@@ -115,3 +115,4 @@
 * waywardness - disobedient; preverse;
 * whelp - a young offspring of a canid // bear, wolf, dog
 * xenophobic
+* decapitated - to remove the head of
