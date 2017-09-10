@@ -108,7 +108,7 @@
 * synergistic
 * tangible - Touchable, Possible to be treated as a fact.
 * tingle - to have a prickling or mildly stinging sensation.
-* tribunal
+* tribunal - A court of law
 * untenable
 * veracity - The quality of speaking or stating the truth.
 * vindicated - cleared of blame.

@@ -1,5 +1,5 @@
 # show me the word
-a simple program to show an english word every 60 seconds in the notifications\
+a simple program to show an english word every 60 seconds in the notifications
 
 Add this line to your bashrc or zshrc
 
