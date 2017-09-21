@@ -1,8 +1,8 @@
 import os
 import time
 import fileinput
-import numpy as np
-# import random
+# import numpy as np
+from random import shuffle
 
 # words contain all the lines in the "vocabulary_words.md" file.
 words = []
@@ -44,7 +44,10 @@ def main():
     while True:
         # we've used numpy's random.choice for diversity in the random
         # choices.
-        show_word(np.random.choice(words))
+        # show_word(np.random.choice(words))
+        shuffle(words)
+        for word in words:
+            show_word(word)
 
 
 if __name__ == "__main__":

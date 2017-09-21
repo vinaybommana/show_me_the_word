@@ -20,7 +20,8 @@
 * commend - praise
 * concede - to yield or suffer; to surrender
 * confabulation - a casual conversation; a chat.
-* conferment
+* confer - to compare views, to deliberate.
+* conferment - the act of conferring an honour or presenting a gift.
 * confluence
 * consonance - agreement; Harmony
 * consortium
@@ -109,10 +110,38 @@
 * tangible - Touchable, Possible to be treated as a fact.
 * tingle - to have a prickling or mildly stinging sensation.
 * tribunal - A court of law
-* untenable
+* untenable - not capable of being held
 * veracity - The quality of speaking or stating the truth.
 * vindicated - cleared of blame.
 * waywardness - disobedient; preverse;
 * whelp - a young offspring of a canid // bear, wolf, dog
 * xenophobic
 * decapitated - to remove the head of
+* writ - authority, power to enforce complaince.
+* ascertain - to find out definitely.
+* ostensible - Apparent, evident, meant for open display.
+* interim - temporary
+* conflat - to bring together and fuse into a single entity.
+* moot - subject to discussion.
+* reticent - keeping one's thoughts and opinions to oneself.
+* flagrant - scandalous, on fire, flaming
+* incumbent - imposed on someone as an obligation.
+* forays - a raid.
+* buttress - anything that strengthens or supports.
+* opulent - rich, and extravagant.
+* pageantry - a colorful show or display.
+* taper - a small light
+* bestowal - the act of bestowing; disposal
+* hedge - to seperate with a hedge
+* impeach - to prevent; to hinder
+* appease - to calm
+* schadenfreude - delight in another peson's misfortune
+* regurgitation - the act of swallowing again.
+* cogitated - To discuss with one's self
+* dissident - one who seperate from the established religion
+* deportation - The act of deporting or exiling, banishment
+* imputation - The act of imputing or charging; attribution
+* impute - to charge
+* stridency - having the timbre of a loud high-pitched sound
+* refoulment - Non redition of a person to an area where they would face mistreatment
+* peremptory - absolutely certain.
