@@ -45,6 +45,9 @@ def main():
         # we've used numpy's random.choice for diversity in the random
         # choices.
         # show_word(np.random.choice(words))
+        # for uniqueness of the list and to avoid the words of a particular
+        # kind coming again and again
+        # used shuffle
         shuffle(words)
         for word in words:
             show_word(word)

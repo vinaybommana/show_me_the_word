@@ -87,7 +87,7 @@
 * probity
 * purview
 * quell - to subdue, to put down, to silence.
-* quiescent
+* quiescent - at rest; unagitated; quiet
 * rambunctious - Energetic, noisy, boisterous and difficult to control.
 * rancor - The deepest malignity or spite; deep seated enmity.
 * rangy - Slender and long of limb; lanky
@@ -145,3 +145,13 @@
 * stridency - having the timbre of a loud high-pitched sound
 * refoulment - Non redition of a person to an area where they would face mistreatment
 * peremptory - absolutely certain.
+* Divest - strip; deprive document provide written evidence
+* dissonance - discord; opposite of harmony
+* dirge - lament with music
+* ambivalence - the state of having contradictory emotional attitude
+* abet - assist or encourage usually in some wrongdoing.
+* ablution - the ritual of washing priest's hands or of sacred vessels
+* acumen - shrewdness shown by keen insight
+* adage - a condensed but memorable saying embodying an important fact
+* ameliorate - improve
+* anachronism - something or someone misplaced in time
